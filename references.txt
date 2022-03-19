@@ -1,0 +1,2 @@
+Stack over flow website 'https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment'
+previoud courses on udacity for example loading data function is inspired from this course
