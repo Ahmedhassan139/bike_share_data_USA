@@ -7,8 +7,9 @@ In this project, Python is used to explore data related to bike share systems fo
 ### Python3 / Numpy / Pandas / Terminal Application
 
 ## A glance on the Data
-##<img width="812" alt="Screen Shot 2022-03-20 at 1 20 39 AM" src="https://user-images.githubusercontent.com/54185918/159141672-3d20bc09-3f0a-4c3b-80f2-520dbde4d84e.png">
-Statistics Computed
+<img width="812" alt="Screen Shot 2022-03-20 at 1 20 39 AM" src="https://user-images.githubusercontent.com/54185918/159141672-3d20bc09-3f0a-4c3b-80f2-520dbde4d84e.png">
+
+### Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
@@ -30,7 +31,8 @@ average travel time
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
-## How the scrript works!
+
+## How the script works!
 
 
 https://user-images.githubusercontent.com/54185918/159142176-ef97cfa0-1031-45e5-97b5-fe78db3fc0dc.mp4
